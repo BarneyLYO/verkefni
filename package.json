@@ -1,0 +1,25 @@
+{
+  "name": "verkefni",
+  "version": "0.0.1",
+  "description": "A task execute tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarneyLYO/verkefni.git"
+  },
+  "author": "BL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BarneyLYO/verkefni/issues"
+  },
+  "homepage": "https://github.com/BarneyLYO/verkefni#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.2.0",
+    "@commitlint/config-conventional": "^17.2.0",
+    "eslint-config-prettier": "^8.5.0",
+    "husky": "^8.0.1"
+  }
+}
